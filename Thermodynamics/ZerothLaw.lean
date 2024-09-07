@@ -4,7 +4,7 @@ import Mathlib.Data.Real.EReal
 # The ZEROTH Law
 
 This file defines
-* the notion of mutual thermodynamics equilibriumm (`mutualEquil`)
+* the notion of mutual thermal equilibriumm (`mutualEquil`)
 * the notion of abstract heat `Reservoir`
 and states
 * the axioms of the zeroth law, including

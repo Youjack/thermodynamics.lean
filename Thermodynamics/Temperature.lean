@@ -6,7 +6,7 @@ import Thermodynamics.SecondLaw
 This file states
 * the axiom that reversible `cycle`s do exists, i.e. `UsualEngineCycle.exists_reversible`
 and defines
-* thermodynamic temperature of `Reservoir`s, i.e. `Reservoir.temperature`
+* thermodynamic temperature of `Reservoir`s, i.e. `Reservoir.temp`
 -/
 
 noncomputable section
